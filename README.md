@@ -1,2 +1,2 @@
 # hellowhale
-Simple Docker Demo App !!! hgjh
+Simple Docker Demo App !!!
